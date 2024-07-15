@@ -1,0 +1,9 @@
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('澳门特别行政区', '820000', '');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('望德堂区', '820003', '820000');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('花王堂区', '820002', '820000');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('嘉模堂区', '820006', '820000');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('花地玛堂区', '820001', '820000');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('风顺堂区', '820005', '820000');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('圣方济各堂区', '820008', '820000');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('大堂区', '820004', '820000');
+INSERT INTO addressInfo (name, adcode, parentCode) VALUES ('路氹填海区', '820007', '820000');
